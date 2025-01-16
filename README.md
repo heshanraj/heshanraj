@@ -15,8 +15,13 @@ When I'm not coding, I love spending time outdoors, traveling, or kicking back w
 ---
 
 ## 💡 Skills & Tools
-- **Programming Languages:** Python, SQL, CSS, HTML  
-- **Technologies:** Docker, GitHub  
+- ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+- ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+- ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+- ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat-square&logo=sqlite&logoColor=white)
+- ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+- ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
 - **Other Interests:** Web development, exploring cloud technologies, and always learning something new!
 
 ---
