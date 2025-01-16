@@ -16,7 +16,7 @@ Hey there! 👋 I'm Heshan, a student at IMC Krems, diving into the world of inf
 
 When I'm not coding, I love spending time outdoors, traveling, or kicking back with a good movie. Life’s about learning and enjoying the ride, one step at a time!  
 
-![Luffy Pixel Art](https://raw.githubusercontent.com/heshanraj/heshanraj/main/luffy.gif)
+<img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/luffy.gif" alt="Luffy Pixel Art" width="150" height="150" />
 
 
 
