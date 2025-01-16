@@ -14,7 +14,10 @@
 
 Hey there! 👋 I'm Heshan, a student at IMC Krems, diving into the world of informatics. While I’m still exploring what I want to specialize in, software engineering has been an exciting journey so far. I enjoy solving problems with code and building things that make life a little easier (and a lot cooler).
 
-When I'm not coding, I love spending time outdoors, traveling, or kicking back with a good movie. Life’s about learning and enjoying the ride, one step at a time!  https://raw.githubusercontent.com/heshanraj/heshanraj/main/luffy.gif
+When I'm not coding, I love spending time outdoors, traveling, or kicking back with a good movie. Life’s about learning and enjoying the ride, one step at a time!  
+
+![Luffy Pixel Art](https://raw.githubusercontent.com/heshanraj/heshanraj/main/luffy.gif)
+
 
 
 ---
