@@ -1,4 +1,5 @@
-![Retro Gaming Vibes](https://raw.githubusercontent.com/yourusername/yourrepository/main/mario.gif)
+![Retro Gaming Vibes](https://raw.githubusercontent.com/heshanraj/heshanraj/main/mario.gif)
+
 
 # Hi there, I'm Heshan Raj! 👋
 
