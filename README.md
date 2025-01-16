@@ -1,7 +1,8 @@
+# Hi there, I'm Heshan Raj! 👋
 ![Retro Gaming Vibes](https://raw.githubusercontent.com/heshanraj/heshanraj/main/mario.gif)
 
 
-# Hi there, I'm Heshan Raj! 👋
+
 
 🎓 **Currently studying:** Bachelor’s in Informatics at IMC Krems  
 💻 **Exploring:** The world of software engineering  
