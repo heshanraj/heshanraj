@@ -21,15 +21,9 @@ When I'm not coding, I love spending time outdoors, traveling, or kicking back w
 
 ---
 
-## 🌟 Projects
-Here are some highlights of my work:
-- 🚧 **[Project Name](#):** (Add a description or link to a project here.)
-- 🌐 **[Portfolio Website](#):** (Link your personal or favorite project here if applicable.)
-
----
-
 ## 📫 Connect With Me!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/heshanraj/)
+
 
 ---
 
