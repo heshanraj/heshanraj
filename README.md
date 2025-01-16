@@ -8,7 +8,9 @@
 
 ## About Me
 
-Hey! I'm Heshan, a passionate student delving into the fascinating world of software engineering. While I’m still exploring what I want to do in the future, I’m currently enjoying working with technology to solve problems and create impactful solutions.
+Hey there! 👋 I'm Heshan, a student at IMC Krems, diving into the world of informatics. While I’m still exploring what I want to specialize in, software engineering has been an exciting journey so far. I enjoy solving problems with code and building things that make life a little easier (and a lot cooler).
+
+When I'm not coding, I love spending time outdoors, traveling, or kicking back with a good movie. Life’s about learning and enjoying the ride, one step at a time!
 
 ---
 
