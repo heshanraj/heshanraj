@@ -2,7 +2,7 @@
 
 🎓 **Currently studying:** Bachelor’s in Informatics at IMC Krems  
 💻 **Exploring:** The world of software engineering  
-⚽ **Hobbies:** Playing football and volleyball, watching movies, and traveling  
+⚽ **Hobbies:** Playing football, volleyball, watching movies, and traveling  
 
 ---
 
