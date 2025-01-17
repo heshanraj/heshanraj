@@ -22,10 +22,13 @@ When I'm not coding, I love spending time outdoors, traveling, or kicking back w
 
 ## 💡 Skills & Tools
 
-### Languages
-<img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/python.gif" alt="Python" width="50" />
-<img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/html.gif" alt="HTML" width="50" />
-<img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/css.gif" alt="CSS" width="50" />
+## 💡 Languages
+
+<div style="display: flex; align-items: center; gap: 20px;">
+  <img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/python.gif" alt="Python" width="50" />
+  <img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/html.gif" alt="HTML" width="50" />
+  <img src="https://raw.githubusercontent.com/heshanraj/heshanraj/main/css.gif" alt="CSS" width="50" />
+</div>
 
 ---
 
