@@ -43,11 +43,5 @@ When I'm not coding, I love spending time outdoors, traveling, or kicking back w
 
 ---
 
-## ✨ Quote of the Day
-> "The best way to predict the future is to invent it." – Alan Kay  
-*(This quote will inspire you as you explore the world of software engineering!)*
-
----
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=HeshanRaj&color=brightgreen)
 
